@@ -1,5 +1,5 @@
 # Oblivion
->Oblivion is a game made by Zachary Richman within the Unreal Engine 5 and Blender
+>Oblivion is a game made by Zachary Richman (Nebulous) within the Unreal Engine 5 and Blender 3.0
 
 Oblivion is a science fiction, dystopian, futuristic, and fps video game.
 
